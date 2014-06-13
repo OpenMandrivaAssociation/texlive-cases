@@ -6,7 +6,7 @@
 # catalog-version 2.5
 Name:		texlive-cases
 Version:	2.5
-Release:	6
+Release:	7
 Summary:	Numbered cases environment
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cases
