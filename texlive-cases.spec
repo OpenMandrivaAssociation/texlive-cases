@@ -5,8 +5,8 @@ Summary:	Numbered cases environment
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cases
 License:	PD
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cases.r54682.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cases.doc.r54682.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cases.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cases.doc.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
